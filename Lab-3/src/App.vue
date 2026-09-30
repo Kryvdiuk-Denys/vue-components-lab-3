@@ -4,20 +4,20 @@ import Users from './components/Users.vue'
 
 <template>
   <main>
-    <h1>Лабораторна робота №3</h1>
-    <!-- Ваш компонент зі списком користувачів -->
-    <Users /> 
+    <h1 class="title">Лабораторна робота №3: Списки користувачів</h1>
+    <Users />
   </main>
 </template>
 
 <style scoped>
 main {
   padding: 20px;
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
-h1 {
+.title {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  color: #2d3748;
 }
 </style>

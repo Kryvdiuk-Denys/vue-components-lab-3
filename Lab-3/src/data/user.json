@@ -1,0 +1,32 @@
+[
+  {
+    "gender": "Female",
+    "name": { "title": "Mrs", "first": "Emma", "last": "Lampi" },
+    "location": {
+      "street": "2304 Silitie", "city": "Hausjärvi", "state": "Uusimaa",
+      "country": "Finland", "postcode": "98555", "timezone": "+8:00 (Beijing)"
+    },
+    "email": "emma.lampi@example.com",
+    "phone": "02-689-410",
+    "cell": "043-730-12-94",
+    "picture": "/users/user1.jpg",
+    "dob": { "date": "08.03.2001", "age": 25 },
+    "hobbies": ["Travel", "Photography", "Hiking", "Reading", "Cooking", "Music"],
+    "details": "Software engineering student passionate about frontend UI development and UX design."
+  },
+  {
+    "gender": "Male",
+    "name": { "title": "Mr", "first": "Alex", "last": "Jones" },
+    "location": {
+      "street": "742 Evergreen Tce", "city": "Springfield", "state": "Oregon",
+      "country": "USA", "postcode": "97477", "timezone": "-5:00 (EST)"
+    },
+    "email": "alex.jones@example.com",
+    "phone": "555-0199",
+    "cell": "555-0143",
+    "picture": "/users/user2.jpg",
+    "dob": { "date": "14.11.2009", "age": 16 },
+    "hobbies": ["Gaming", "Skateboarding"],
+    "details": "High school student who loves logic puzzles, open-source games, and cycling."
+  }
+]

@@ -1,0 +1,29 @@
+cat << 'EOF' > .gitignore
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Local environmental variables
+.env.local
+.env.*.local
+
+# Project artifacts
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+EOF

@@ -28,5 +28,125 @@
     "dob": { "date": "14.11.2009", "age": 16 },
     "hobbies": ["Gaming", "Skateboarding"],
     "details": "High school student who loves logic puzzles, open-source games, and cycling."
+  },
+  {
+    "gender": "Female",
+    "name": { "title": "Ms", "first": "Emma", "last": "Brown" },
+    "location": {
+      "street": "125 Oak Street", "city": "Portland", "state": "Oregon",
+      "country": "USA", "postcode": "97205", "timezone": "-8:00 (PST)"
+    },
+    "email": "emma.brown@example.com",
+    "phone": "555-0121",
+    "cell": "555-0167",
+    "picture": "/users/user3.jpg",
+    "dob": { "date": "22.03.2008", "age": 18 },
+    "hobbies": ["Reading", "Photography"],
+    "details": "College student who enjoys photography, fantasy books, and hiking."
+  },
+  {
+    "gender": "Male",
+    "name": { "title": "Mr", "first": "Liam", "last": "Wilson" },
+    "location": {
+      "street": "48 Maple Avenue", "city": "Denver", "state": "Colorado",
+      "country": "USA", "postcode": "80203", "timezone": "-7:00 (MST)"
+    },
+    "email": "liam.wilson@example.com",
+    "phone": "555-0134",
+    "cell": "555-0182",
+    "picture": "/users/user4.jpg",
+    "dob": { "date": "07.08.2007", "age": 19 },
+    "hobbies": ["Football", "Gaming"],
+    "details": "University student interested in programming, football, and competitive gaming."
+  },
+  {
+    "gender": "Female",
+    "name": { "title": "Ms", "first": "Sophia", "last": "Taylor" },
+    "location": {
+      "street": "316 Pine Road", "city": "Seattle", "state": "Washington",
+      "country": "USA", "postcode": "98101", "timezone": "-8:00 (PST)"
+    },
+    "email": "sophia.taylor@example.com",
+    "phone": "555-0175",
+    "cell": "555-0118",
+    "picture": "/users/user5.jpg",
+    "dob": { "date": "19.05.2009", "age": 17 },
+    "hobbies": ["Drawing", "Music"],
+    "details": "High school student who enjoys digital art, music, and learning new languages."
+  },
+  {
+    "gender": "Male",
+    "name": { "title": "Mr", "first": "Noah", "last": "Miller" },
+    "location": {
+      "street": "902 Cedar Lane", "city": "Austin", "state": "Texas",
+      "country": "USA", "postcode": "78701", "timezone": "-6:00 (CST)"
+    },
+    "email": "noah.miller@example.com",
+    "phone": "555-0156",
+    "cell": "555-0191",
+    "picture": "/users/user6.jpg",
+    "dob": { "date": "03.12.2008", "age": 17 },
+    "hobbies": ["Cycling", "Chess"],
+    "details": "Student who loves chess, cycling, technology, and solving complex problems."
+  },
+  {
+    "gender": "Female",
+    "name": { "title": "Mrs", "first": "Olivia", "last": "Davis" },
+    "location": {
+      "street": "77 Birch Street", "city": "Boston", "state": "Massachusetts",
+      "country": "USA", "postcode": "02108", "timezone": "-5:00 (EST)"
+    },
+    "email": "olivia.davis@example.com",
+    "phone": "555-0109",
+    "cell": "555-0173",
+    "picture": "/users/user7.jpg",
+    "dob": { "date": "28.01.2006", "age": 20 },
+    "hobbies": ["Cooking", "Traveling"],
+    "details": "University student who enjoys cooking, traveling, and exploring new places."
+  },
+  {
+    "gender": "Male",
+    "name": { "title": "Mr", "first": "Ethan", "last": "Anderson" },
+    "location": {
+      "street": "214 Lakeview Drive", "city": "Chicago", "state": "Illinois",
+      "country": "USA", "postcode": "60601", "timezone": "-6:00 (CST)"
+    },
+    "email": "ethan.anderson@example.com",
+    "phone": "555-0148",
+    "cell": "555-0162",
+    "picture": "/users/user8.jpg",
+    "dob": { "date": "11.09.2008", "age": 18 },
+    "hobbies": ["Basketball", "Programming"],
+    "details": "Computer science student interested in web development, basketball, and robotics."
+  },
+  {
+    "gender": "Female",
+    "name": { "title": "Ms", "first": "Ava", "last": "Thomas" },
+    "location": {
+      "street": "531 River Street", "city": "Miami", "state": "Florida",
+      "country": "USA", "postcode": "33101", "timezone": "-5:00 (EST)"
+    },
+    "email": "ava.thomas@example.com",
+    "phone": "555-0187",
+    "cell": "555-0132",
+    "picture": "/users/user9.jpg",
+    "dob": { "date": "16.06.2007", "age": 19 },
+    "hobbies": ["Swimming", "Painting"],
+    "details": "College student who enjoys swimming, painting, and spending time outdoors."
+  },
+  {
+    "gender": "Male",
+    "name": { "title": "Mr", "first": "James", "last": "Moore" },
+    "location": {
+      "street": "89 Willow Avenue", "city": "San Francisco", "state": "California",
+      "country": "USA", "postcode": "94102", "timezone": "-8:00 (PST)"
+    },
+    "email": "james.moore@example.com",
+    "phone": "555-0114",
+    "cell": "555-0196",
+    "picture": "/users/user10.jpg",
+    "dob": { "date": "25.02.2009", "age": 17 },
+    "hobbies": ["Skateboarding", "Coding"],
+    "details": "High school student who enjoys coding, skateboarding, and building small software projects."
   }
 ]
